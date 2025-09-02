@@ -2,7 +2,7 @@
 
 Selamat Datang di Perpustakaan Digital 
 
-Berikut ini adalah Koleksi yang dimiliki: 
+Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi 
 
 1. [Contoh Label](ebook/contoh label.pdf) – Athanasia, dkk (2020)   
