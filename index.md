@@ -9,5 +9,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. Contoh buku lain 
 
 --- 
+<a href="webti/halaman1.html"> Halaman 1 </a>
 
 *Powered by GitHub Pages*
